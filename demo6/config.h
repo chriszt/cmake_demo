@@ -1,0 +1,1 @@
+/* #undef POW_HAVE */
